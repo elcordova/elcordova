@@ -13,3 +13,8 @@ I am a fullstack software engineer from Ecuador 🇪🇨
 [<img align="left" alt="hashnode" src="https://img.shields.io/badge/hashnode-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />](https://elcordova.dev)
 <br>
 <br>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
