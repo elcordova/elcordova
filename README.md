@@ -15,6 +15,6 @@ I am a fullstack software engineer from Ecuador 🇪🇨
 <br>
 
 ## Blog posts
-<!-- HASHNODE:START --> 
-
+<!-- HASHNODE:START -->
+- [Angular Sugar Tracker](https://elcordova.dev/angular-sugar-tracker)
 <!-- HASHNODE:END -->
